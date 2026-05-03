@@ -4,7 +4,7 @@ A free, open-source macOS desktop widget for live Formula 1 driver positions, la
 
 > Powered by the OpenF1 API. Refreshes every 90 seconds during a race weekend.
 
-**Site:** [f1live.pages.dev](https://f1live.pages.dev) · **Tip jar:** [Cash App $Dryeetsolutions](https://cash.app/$Dryeetsolutions) · **Sister widgets:** [News](https://github.com/bendawg2010/NewsWidgets) · [Scores](https://github.com/bendawg2010/Scores) · [Sports News](https://github.com/bendawg2010/SportsNews)
+**Site:** [f1widget.pages.dev](https://f1widget.pages.dev) · **Tip jar:** [Cash App $Dryeetsolutions](https://cash.app/$Dryeetsolutions) · **Sister widgets:** [News](https://github.com/bendawg2010/NewsWidgets) · [Scores](https://github.com/bendawg2010/Scores) · [Sports News](https://github.com/bendawg2010/SportsNews)
 
 ## Install
 
